@@ -2,7 +2,7 @@ Jennifer Long's matplotlib homework.
 
 In these files, you will find my matplotlib ipynb for the homework. At the bottom of the notebook, you will find observations regarding the effects of the drug regimens on the tumor-filled mice. I have also listed these observations below:
 
-Three observations:
+Observations:
     
     1) It looks as though there is a correlation between how big a 
     tumor is and how big the mouse is. The larger the mouse, the larger
