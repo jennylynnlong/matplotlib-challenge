@@ -3,6 +3,7 @@ Jennifer Long's matplotlib homework.
 In these files, you will find my matplotlib ipynb for the homework. At the bottom of the notebook, you will find observations regarding the effects of the drug regimens on the tumor-filled mice. I have also listed these observations below:
 
 Three observations:
+    
     1) It looks as though there is a correlation between how big a 
     tumor is and how big the mouse is. The larger the mouse, the larger
     the tumor. The r-squared value is 0.84 which proves there is a 
